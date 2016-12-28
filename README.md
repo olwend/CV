@@ -1,26 +1,20 @@
 ## Olwen Davies
-I am an experienced and versatile test manager, I have been equally able to apply hands on test skills as to manage local, 3rd party and remote teams. I have a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team.  <<Blog here>>
+
+I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team.  <<Bloghere>>
+I am an experienced and versatile test manager, I have been equally able to apply hands on test skills as to manage local, 3rd party and remote teams. I have a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team. 
 
 I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to return to my starting point in IT, where I realised user ideas for discrete understood tasks and where I was very close to a product. The end user or commissioners were the people liaising with the creative and technical team.  
 
-## Skills
+## SKILLS 
 
 #### TESTING
-- I rose through the test ranks to be QUALITY MANAGER FOR TREASURY AND POST TRADE 
+- I rose through the test ranks to be a QUALITY MANAGER FOR TREASURY AND POST TRADE at REUTERS PLC
 - I managed 4 Test Team Leads, with responsibility for 30 – 40 testers and deliverables to rigorous enterprise standards.   
-- Key achievements were:
 - Consistent on time to quality delivery across 8 workstreams
-- My team met group automation targets every year, I worked with auto testers to put a coherent and flexible, repeatable data - driven framework in place.    With a new technical team in Beijing, my area achieved 30% automation on new functionality
-- and 70% on a large products regression within 6 months.  
-- Working to tight client UAT schedules I ran integration test phases, where investment 
-- bank trading engines could trial new algorithms against production like trading data. 
-- Key to this was liaison with client and TR architects, product delivery managers and technical operations staff
-- We agreed realistic commitments and met the SLA to clients such as UBS, Deutsche Bank, BONY, BofAmerica and Handelsbanken.
+- My team met group automation targets every year, I worked with auto testers to implement a flexible, repeatable data driven framework. With atechnical team in Beijing, my area achieved 30% automation of new functions & 70% on regression in 6 months. 
+- Working to tight client UAT schedules I ran integration test phases, where investment bank trading engines could trial new algorithms against production like trading data. Key to this was liaison with client and TR architects, product delivery managers and technical operations staff. We agreed realistic commitments and met the SLA to clients such as UBS, Deutsche Bank, BONY, BofAmerica and Handelsbanken.
 
 #### CLARIFICATION OF USER REQUIREMENTS
-Details clarification - testing always exposes questions.  
-Introduces real world and users to the running of code.  Sets the code in the wider context of environment, accessibility and device.  Checks that the interpretation of the requirement is in line with the user use of application. 
-Observational understanding of user challenges feed into full end to end testing scripts. More recently in agile projects where these are brought up front into definition of user stories, key questions testers have define the requirements.
 
 #### INDUSTRY SECTOR KNOWLEDGE
 Consumer credit and finance, FX and Trade reconciliation services, Energy, Digital marketing (price comparison website), airline industry. 
@@ -40,8 +34,9 @@ I accrued knowledge of credit risk feeds, client product integration and common 
 fed by XML data sets. 
 
 ## INDIRECT SKILLS OF GREAT USE IN CODING
-####Details clarification
-TEsting introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement is in line with the user use of application.
+
+#### CLARIFICATION OF USER REQUIREMENTS
+Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement is in line with the user use of application.
 OVer many projects and organisations the same questions arise, a good tester becomes a touchstone and develops uncanny ability to predict issues.  
 
 #### COMMUNICATION 
@@ -120,7 +115,7 @@ Life long border collie owner so I am a habitual rambler, particularly around sc
 Know the phrase “Whatever the weather we’ll weather the weather, whether we like it or not!”
 Member of Wildlife Trust - attend talks and volunteer on weekend work parties
 
-Regular ASA “swim fit” attendee, veteran black run skier and ex long distance runner.
+Regular ASA “swim fit” attendee, veteran but stubbornly hanging in there black run skier and ex long distance runner.
 
 Minutes secretary for the management association of a flat community where I am an owner
 Active contributor to the North Luffenham village plan which aims to secure a sustainable and affordable living environment across generations, ensuring longevity of the village and its environment. 
