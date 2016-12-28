@@ -39,8 +39,8 @@ Consumer credit and finance, FX and Trade reconciliation services, Energy, Digit
 I accrued knowledge of credit risk feeds, client product integration and common interface issues between MainFrame and C# UI
 fed by XML data sets. 
 
-#### INDIRECT SKILLS OF GREAT USE IN CODING
-Details clarification
+## INDIRECT SKILLS OF GREAT USE IN CODING
+####Details clarification
 TEsting introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement is in line with the user use of application.
 OVer many projects and organisations the same questions arise, a good tester becomes a touchstone and develops uncanny ability to predict issues.  
 
