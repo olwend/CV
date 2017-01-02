@@ -1,16 +1,14 @@
 ## Olwen Davies
 
-I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team.  <<Bloghere>>
-I am an experienced and versatile test manager, I have been equally able to apply hands on test skills as to manage local, 3rd party and remote teams. I have a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team. 
+I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team.  I expand on this in my blog <<Bloghere>>.
+I have several years experience as a test manager, after which I moved into Test analyst contract roles.I have been equally able to apply hands on test skills as to manage local, 3rd party and remote teams. I have a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  
 
 I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to return to my starting point in IT, where I realised user ideas for discrete understood tasks and where I was very close to a product. The end user or commissioners were the people liaising with the creative and technical team.  
 
-## SKILLS 
+## SKILLS - ADD MATRIX 
 
-#### TESTING
-- I rose through the test ranks to be a QUALITY MANAGER FOR TREASURY AND POST TRADE at REUTERS PLC
-- I managed 4 Test Team Leads, with responsibility for 30 – 40 testers and deliverables to rigorous enterprise standards.   
-- Consistent on time to quality delivery across 8 workstreams
+#### TESTING - SUMMARISE DIFFERENT ROLES / KEY EXAMPLES
+- I rose through test ranks, increasing my technical test skills and refining management skills in my role as QUALITY MANAGER FOR TREASURY AND POST TRADE at REUTERS PLC. In this role I managed 4 Test Team Leads, taking overall responsibility for a large test team, across 8 workstreams, ensuring product deliverables were timely and to rigorous enterprise standards.   
 - My team met group automation targets every year, I worked with auto testers to implement a flexible, repeatable data driven framework. With atechnical team in Beijing, my area achieved 30% automation of new functions & 70% on regression in 6 months. 
 - Working to tight client UAT schedules I ran integration test phases, where investment bank trading engines could trial new algorithms against production like trading data. Key to this was liaison with client and TR architects, product delivery managers and technical operations staff. We agreed realistic commitments and met the SLA to clients such as UBS, Deutsche Bank, BONY, BofAmerica and Handelsbanken.
 
@@ -75,6 +73,8 @@ of social and economic influences on cinema architecture in Paris
 - Intermediate French speaker
 
 ## Experience
+** EXPERIAN PLC JULY 2016 - DECEMBER 2016**
+*TEST ANALYST*
 
 **COMPARE THE MARKET (BGL GROUP)  OCTOBER 2014 - JUNE 2016**
 *LEAD TEST ENGINEER*
