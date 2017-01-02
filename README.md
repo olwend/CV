@@ -43,6 +43,7 @@ OVer many projects and organisations the same questions arise, a good tester bec
 - Management of people - listening, echoing back to help refine and clarify their development concerns and goals. I have mentored and trained up 6 novice testers, all of whom are still progressing in their test careers.
 - I implemented a personal development tool to clarify the agile test role and ensure test engineers were given a clear learning path for agile proficiency.
 
+#### UNDERSTANDING OF LARGE ENTERPRISE IT SYSTEMS
 
 ## EDUCATION
 
