@@ -1,4 +1,4 @@
-## Olwen Davies
+## Olwen Davies DRAFT
 
 I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team.  I expand on this in my blog <<Bloghere>>.
 I have several years experience as a test manager, after which I moved into Test analyst contract roles.I have been equally able to apply hands on test skills as to manage local, 3rd party and remote teams. I have a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  
@@ -7,12 +7,13 @@ I have wide interests and I see huge benefits to technology being more widely un
 
 ## SKILLS - ADD MATRIX 
 
-#### TESTING - SUMMARISE DIFFERENT ROLES / KEY EXAMPLES
-- I rose through test ranks, increasing my technical test skills and refining management skills in my role as QUALITY MANAGER FOR TREASURY AND POST TRADE at REUTERS PLC. In this role I managed 4 Test Team Leads, taking overall responsibility for a large test team, across 8 workstreams, ensuring product deliverables were timely and to rigorous enterprise standards.   
+#### TESTING - SUMMARISE DIFFERENT ROLES / KEY EXAMPLES / WHAT I LEARNT IN DIFFT ROLES - CHOICE RE. STEP DOWN
+- I rose through test ranks, increasing my technical test skills and refining management skills as QUALITY MANAGER FOR TREASURY AND POST TRADE at REUTERS PLC. In this role I managed 4 Test Team Leads, taking overall responsibility for a large test team, across 8 workstreams, ensuring product deliverables were timely and to rigorous enterprise standards.   
 - My team met group automation targets every year, I worked with auto testers to implement a flexible, repeatable data driven framework. With atechnical team in Beijing, my area achieved 30% automation of new functions & 70% on regression in 6 months. 
 - Working to tight client UAT schedules I ran integration test phases, where investment bank trading engines could trial new algorithms against production like trading data. Key to this was liaison with client and TR architects, product delivery managers and technical operations staff. We agreed realistic commitments and met the SLA to clients such as UBS, Deutsche Bank, BONY, BofAmerica and Handelsbanken.
+- Ultimately after being a manager through several rounds of redundancy, I decided VR was attractive and pursued hands on testing roles. 
 
-#### CLARIFICATION OF USER REQUIREMENTS
+BREAKDOWN TAKEAWAYS FROM LAST 5 YEARS -> GENERATED THIRST FOR TECHNICAL SKILLSET DO THINGS MORE EFFICIENTLY/ THOROUGHLY WITH AUTOMATION.
 
 #### INDUSTRY SECTOR KNOWLEDGE
 Consumer credit and finance, FX and Trade reconciliation services, Energy, Digital marketing (price comparison website), airline industry. 
@@ -35,11 +36,12 @@ fed by XML data sets.
 
 #### CLARIFICATION OF USER REQUIREMENTS
 Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement is in line with the user use of application.
-OVer many projects and organisations the same questions arise, a good tester becomes a touchstone and develops uncanny ability to predict issues.  
+Over many projects and organisations the same questions arise, a good tester becomes a touchstone and develops uncanny ability to predict issues. I have learnt to trust my hunches and ability to evidence risks prior to their breaking as issues. 
 
 #### COMMUNICATION 
 - Timely and accurate updates to stakeholders of current status of quality and the severity to show impact on project status against plan
-- Clarification of ideas and translation of aspirations into a real plan.
+- Clarification of ideas and translation of aspirations into a real plan, which peers and overall team can enact.
+- Challenging participant in agile scrum and planning sessions.
 - Management of people - listening, echoing back to help refine and clarify their development concerns and goals. I have mentored and trained up 6 novice testers, all of whom are still progressing in their test careers.
 - I implemented a personal development tool to clarify the agile test role and ensure test engineers were given a clear learning path for agile proficiency.
 
@@ -49,7 +51,7 @@ OVer many projects and organisations the same questions arise, a good tester bec
 
 #### Makers Academy (DEC 2016 - MARCH 2017)
 
-- Curiosity and hungry passion for code
+- Curiosity and hunger for "souped up ways" of approaching testing and development projects 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
@@ -66,12 +68,13 @@ OVer many projects and organisations the same questions arise, a good tester bec
 #### LONDON SCHOOL OF ECONOMICS 1998 - 1993
 
 - Bsc ECON (Economic and Social History) 2:2
-- Won University of London Convocation award to follow up dissertation with comparitive study
-of social and economic influences on cinema architecture in Paris
+- Won University of London Convocation award to follow up dissertation with comparative study
+"Social and economic influences on 1930's cinema architecture in London and Paris".
 - Used network to gain employment as a English Assistant in a lycee Jean Moulin, Montmorillon, Poitiers
 
 #### Any other qualifications
 - Intermediate French speaker
+- Basic Spanish
 
 ## Experience
 ** EXPERIAN PLC JULY 2016 - DECEMBER 2016**
@@ -104,7 +107,7 @@ JULY 1999 - DECEMBER 1999 ROLLS ROYCE PLC (SAP Trainer)
 JULY 1994 -  JULY 1999 SEFTON HEALTH DATA ANALYST PART TIME
 AD HOC PROJECTS FOR SMALL BUSINESSES USING MS OFFICE
 
-#### RECENT PROJECTS TO VIEW
+#### HOPED FOR PIPELINE PROJECTS TO VIEW
 Walkiess - location based dog owner ratings of walks and pubs
 LUFF SAID - game approach to community contribution and knowledge sharing (customisable name to be based on village)
 
@@ -116,8 +119,8 @@ Life long border collie owner so I am a habitual rambler, particularly around sc
 Know the phrase “Whatever the weather we’ll weather the weather, whether we like it or not!”
 Member of Wildlife Trust - attend talks and volunteer on weekend work parties
 
-Regular ASA “swim fit” attendee, veteran but stubbornly hanging in there black run skier and ex long distance runner.
+Regular ASA “swim fit” attendee, ex long distance runner, am stubbornly hanging in there as a black run & off piste skier.
 
-Minutes secretary for the management association of a flat community where I am an owner
-Active contributor to the North Luffenham village plan which aims to secure a sustainable and affordable living environment across generations, ensuring longevity of the village and its environment. 
+Minutes secretary for the management association of a community where I am a flat owner
+Active contributor to the North Luffenham village plan which aims to secure a sustainable and affordable living environment across this and future generations, ensuring longevity of the village and its environment. 
 This has already fed me ideas I would like to pursue for applications to encourage dog walkers to share and feed back on walks, plus an app to encourage and motivate teenage interaction with their communities. 
