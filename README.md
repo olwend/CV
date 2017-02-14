@@ -109,7 +109,6 @@ JULY 1994 -  JULY 1999 SEFTON HEALTH DATA ANALYST PART TIME
 AD HOC PROJECTS FOR SMALL BUSINESSES USING MS OFFICE
 
 #### HOPED FOR PIPELINE PROJECTS TO VIEW
-Walkiess - location based dog owner ratings of walks and pubs
 LUFF SAID - game approach to community contribution and knowledge sharing (customisable name to be based on village)
 
 ####INTERESTS
@@ -120,8 +119,8 @@ Life long border collie owner so I am a habitual rambler, particularly around sc
 Know the phrase “Whatever the weather we’ll weather the weather, whether we like it or not!”
 Member of Wildlife Trust - attend talks and volunteer on weekend work parties
 
-Regular ASA “swim fit” attendee, ex long distance runner, am stubbornly hanging in there as a black run & off piste skier.
+Regular ASA “swim fit” attendee, ex half and full marathon sufferer, I am stubbornly hanging in there as a black run & off piste skier.
 
 Minutes secretary for the management association of a community where I am a flat owner
 Active contributor to the North Luffenham village plan which aims to secure a sustainable and affordable living environment across this and future generations, ensuring longevity of the village and its environment. 
-This has already fed me ideas I would like to pursue for applications to encourage dog walkers to share and feed back on walks, plus an app to encourage and motivate teenage interaction with their communities. 
+This has already fed me ideas I would like to pursue for an app to encourage and motivate teenage interaction with their communities. 
