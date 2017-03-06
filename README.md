@@ -17,10 +17,11 @@ Testing introduces the real world and users to the running of code, thus exposes
 Over many projects and organisations the same questions arise, a good tester becomes a touchstone and develops uncanny ability to predict issues. I have learnt to trust my hunches and ability to evidence risks prior to their breaking as issues. 
 
 #### COMMUNICATION 
+- Automated test suites as great demo tools
 - Timely and accurate updates to stakeholders of current status of quality and the severity to show impact on project status against plan
 - Clarification of ideas and translation of aspirations into a real plan, which peers and overall team can enact.
-- Challenging participant in agile scrum and planning sessions.
-- Management of people - listening, echoing back to help refine and clarify their development concerns and goals. I have mentored and trained up 6 novice testers, all of whom are still progressing in their test careers.
+- I'm a challenging participant in agile scrum and planning sessions.
+- Management of people - listening, echoing back to help refine and clarify their development concerns and goals. I have most proud that I mentored and trained up 6 novice testers, all of whom are still progressing in their test careers.
 - I implemented a personal development tool to clarify the agile test role and ensure test engineers were given a clear learning path for agile proficiency.
 
 #### UNDERSTANDING OF LARGE ENTERPRISE IT SYSTEMS
@@ -29,6 +30,7 @@ Over many projects and organisations the same questions arise, a good tester bec
 
 I managed the last phase test activities for a UI migration to a new platform for Experian e-ConsumerView.
 - http://www.experian.co.uk/consumer-information/econsumerview.html
+The actual site is restricted to subscribing finance clients. 
 
 I led UI testing (C# auto framework) of a new Application form, interfacing to EHL switching API.
 Compare The Market Energy workflow https://energy.comparethemarket.com/energy/v2/
