@@ -89,7 +89,7 @@ Compare The Market Energy workflow https://energy.comparethemarket.com/energy/v2
 
 **CAPITAL ONE BANK EUROPE** (JANUARY 2000 - APRIL 2004)   
 *IT ANALYST TRAINEE  (DATA ANALYSIS, SUPPORT, PROJECT MANAGEMENT, TESTING)*
-*PM for voluntary Child Abuse Tracking System. Business in The Community Award winner*
+*_PM for voluntary Child Abuse Tracking System. Business in The Community Award winner_*
 
 JULY 1999 - DECEMBER 1999 ROLLS ROYCE PLC (SAP Trainer)
 
@@ -97,7 +97,7 @@ JULY 1994 -  JULY 1999 SEFTON HEALTH DATA ANALYST PART TIME
 AD HOC PROJECTS FOR SMALL BUSINESSES USING MS OFFICE
 
 #### HOPED FOR PIPELINE PROJECTS TO VIEW
-LUFF SAID - game approach to community contribution and knowledge sharing (customisable name to be based on village)
+LUFF SAID - game approach to cross generation community contribution and knowledge sharing (customisable name)
 
 ####INTERESTS
 
