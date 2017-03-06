@@ -8,30 +8,6 @@ I have wide interests and I see huge benefits to technology being more widely un
 
 ## SKILLS - ADD MATRIX 
 
-#### TESTING - SUMMARISE DIFFERENT ROLES / KEY EXAMPLES / WHAT I LEARNT IN DIFFT ROLES - CHOICE RE. STEP DOWN
-- I rose through test ranks, increasing my technical test skills and refining management skills as QUALITY MANAGER FOR TREASURY AND POST TRADE at REUTERS PLC. In this role I managed 4 Test Team Leads, taking overall responsibility for a large test team, across 8 workstreams, ensuring product deliverables were timely and to rigorous enterprise standards.   
-- My team met group automation targets every year, I worked with auto testers to implement a flexible, repeatable data driven framework. With atechnical team in Beijing, my area achieved 30% automation of new functions & 70% on regression in 6 months. 
-- Working to tight client UAT schedules I ran integration test phases, where investment bank trading engines could trial new algorithms against production like trading data. Key to this was liaison with client and TR architects, product delivery managers and technical operations staff. We agreed realistic commitments and met the SLA to clients such as UBS, Deutsche Bank, BONY, BofAmerica, HSBC and Handelsbanken.
-- Ultimately after managing teams through several rounds of redundancy, I decided VR was attractive and pursued hands on testing roles. 
-
-BREAKDOWN TAKEAWAYS FROM LAST 5 YEARS -> GENERATED THIRST FOR TECHNICAL SKILLSET DO THINGS MORE EFFICIENTLY/ THOROUGHLY WITH AUTOMATION.
-
-#### INDUSTRY SECTOR KNOWLEDGE
-Consumer credit and finance, FX and Trade reconciliation services, Energy, Digital marketing (price comparison website), airline industry. 
-
-- Functional and integration tests of software require the ability to learn business workflows fast. 
-- Many projects incorporate legacy data feeds or interface to existing systems
-- Reviews of existing data flows interfacing into company systems give vital information to base new functionality on
-
-  -   I led UI testing (C# auto framework) of a new Application form, interfacing to EHL switching API. 
-  -   Use of Postman, Fiddler to replicate and exercise the REST and JSON messaging to try out numerous energy switches.
-  -   Hands on experience extending an existing Automation C# framework, using selenium webdriver and GIT.
-- Example being Compare The Market Energy workflow https://energy.comparethemarket.com/energy/v2/
-
-- I managed the last phase test activities for a UI migration to a new platform for Experian e-ConsumerView.
-- http://www.experian.co.uk/consumer-information/econsumerview.html
-I accrued knowledge of credit risk feeds, client product integration and common interface issues between MainFrame and C# UI
-fed by XML data sets. 
 
 ## INDIRECT SKILLS OF GREAT USE IN CODING
 #### ISSUE REPORTING AND DEBUGGING
@@ -48,6 +24,15 @@ Over many projects and organisations the same questions arise, a good tester bec
 - I implemented a personal development tool to clarify the agile test role and ensure test engineers were given a clear learning path for agile proficiency.
 
 #### UNDERSTANDING OF LARGE ENTERPRISE IT SYSTEMS
+
+#### MOST RECENT INDUSTRY PROJECTS
+
+I managed the last phase test activities for a UI migration to a new platform for Experian e-ConsumerView.
+- http://www.experian.co.uk/consumer-information/econsumerview.html
+
+I led UI testing (C# auto framework) of a new Application form, interfacing to EHL switching API.
+Compare The Market Energy workflow https://energy.comparethemarket.com/energy/v2/
+
 
 ## EDUCATION
 
