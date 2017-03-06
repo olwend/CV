@@ -2,17 +2,17 @@
 
 I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team. 
   Further information available here https://medium.com/@olwend.
-I have several years experience as a test manager, after which I moved into Test analyst contract roles.I have been equally able to apply hands on test skills as to manage local, 3rd party and remote teams. I have a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  Relishing hands on technical work, aside from the management of teams and projects, I have taken interim roles moving towards automated testing.  Seeing the power of early quality input, by which a test professional uses a code based framework to write functional tests as an independent check whilst development is underway, I became more interested in Test Driven Development. I am taking time now, to  raise my technical game and so assure my contribution and effectiveness on team driven agile projects. My aim is to be a pragmatic, tactical tester suited to technical work  assuring the test role is an integral part of a Continuous Integration environment on all projects and teams I take part in.  
+I have several years experience as a test manager, after which I moved into Test analyst contract roles. Skilled application of hands on test skills alongside my sucess managing local, 3rd party and remote teams is shown in a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  Relishing hands on technical work, I have taken interim roles moving towards automated testing.  I see the power of early quality input, by which a test professional uses a code based framework to supplement TDD, auto tests are an independent check whilst development is underway and grow with the code base. I am taking time now, to  raise my technical game and so assure my long term contribution and effectiveness on team driven agile projects. My aim is to be a pragmatic, tactical tester suited to technical work.  
 
-I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to return to my starting point in IT, where I realised user ideas for understood tasks and where I was driving a product for the end user or commissioners who were the people liaising with the creative and technical team.  
+I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to return to my starting point in IT, where I realised user ideas for understood tasks and where I was driving a product for the end user or commissioners who were the people liaising with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors. 
 
 ## SKILLS - ADD MATRIX 
 
 #### TESTING - SUMMARISE DIFFERENT ROLES / KEY EXAMPLES / WHAT I LEARNT IN DIFFT ROLES - CHOICE RE. STEP DOWN
 - I rose through test ranks, increasing my technical test skills and refining management skills as QUALITY MANAGER FOR TREASURY AND POST TRADE at REUTERS PLC. In this role I managed 4 Test Team Leads, taking overall responsibility for a large test team, across 8 workstreams, ensuring product deliverables were timely and to rigorous enterprise standards.   
 - My team met group automation targets every year, I worked with auto testers to implement a flexible, repeatable data driven framework. With atechnical team in Beijing, my area achieved 30% automation of new functions & 70% on regression in 6 months. 
-- Working to tight client UAT schedules I ran integration test phases, where investment bank trading engines could trial new algorithms against production like trading data. Key to this was liaison with client and TR architects, product delivery managers and technical operations staff. We agreed realistic commitments and met the SLA to clients such as UBS, Deutsche Bank, BONY, BofAmerica and Handelsbanken.
-- Ultimately after being a manager through several rounds of redundancy, I decided VR was attractive and pursued hands on testing roles. 
+- Working to tight client UAT schedules I ran integration test phases, where investment bank trading engines could trial new algorithms against production like trading data. Key to this was liaison with client and TR architects, product delivery managers and technical operations staff. We agreed realistic commitments and met the SLA to clients such as UBS, Deutsche Bank, BONY, BofAmerica, HSBC and Handelsbanken.
+- Ultimately after managing teams through several rounds of redundancy, I decided VR was attractive and pursued hands on testing roles. 
 
 BREAKDOWN TAKEAWAYS FROM LAST 5 YEARS -> GENERATED THIRST FOR TECHNICAL SKILLSET DO THINGS MORE EFFICIENTLY/ THOROUGHLY WITH AUTOMATION.
 
@@ -34,6 +34,7 @@ I accrued knowledge of credit risk feeds, client product integration and common 
 fed by XML data sets. 
 
 ## INDIRECT SKILLS OF GREAT USE IN CODING
+#### ISSUE REPORTING AND DEBUGGING
 
 #### CLARIFICATION OF USER REQUIREMENTS
 Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement is in line with the user use of application.
@@ -66,7 +67,7 @@ Over many projects and organisations the same questions arise, a good tester bec
 * Agile testing (BDD,GIT, Cucumber) and Exploratory charters
 * DSDM Atern Agile Project Management
 
-#### LONDON SCHOOL OF ECONOMICS 1998 - 1993
+#### LONDON SCHOOL OF ECONOMICS 1989 - 1993
 
 - Bsc ECON (Economic and Social History) 2:2
 - Won University of London Convocation award to follow up dissertation with comparative study
@@ -119,8 +120,6 @@ Life long border collie owner so I am a habitual rambler, particularly around sc
 Know the phrase “Whatever the weather we’ll weather the weather, whether we like it or not!”
 Member of Wildlife Trust - attend talks and volunteer on weekend work parties
 
-Regular ASA “swim fit” attendee, ex half and full marathon sufferer, I am stubbornly hanging in there as a black run & off piste skier.
-
-Minutes secretary for the management association of a community where I am a flat owner
-Active contributor to the North Luffenham village plan which aims to secure a sustainable and affordable living environment across this and future generations, ensuring longevity of the village and its environment. 
-This has already fed me ideas I would like to pursue for an app to encourage and motivate teenage interaction with their communities. 
+Minutes secretary for the management association of a community where I am a flat owner.
+Active contributor to the environment and youth engagement sections of North Luffenham village plan. The aim is to secure  sustainable and affordable living across this and future generations, ensuring longevity of the village and its environment. 
+This has inspired ideas I would like to pursue for sideline projects.
