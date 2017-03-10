@@ -5,7 +5,7 @@ As a seasoned software tester and new Makers Academy graduate I am seeking a Sof
 After several years in a variety of IT roles (data warehouse data analyst,support analyst, tester and test manager) I moved into Test analyst contract roles. My rigorous application of hands on test skills alongside sucess managing local, 3rd party and remote teams gives my consistent record of efficient testing tailored to project timelines and business or client needs.  I relish hands on technical work, so my interests led me to automated testing as a means to build quality in to software projects.  I am an advocate of early quality input, using a code based test framework to supplement TDD, growing auto tests as an independent check in parallel to growth in the code base. In turn this led me to learn coding at Makers.
 
 I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products where the end user or commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors. 
-Find out more about my motivations [Medium blog](https://medium.com/@olwend)
+Find out more about my motivations [Olwen on Medium](https://medium.com/@olwend)
 
 ## INDIRECT SKILLS OF GREAT USE IN CODING
 
