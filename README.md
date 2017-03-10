@@ -6,6 +6,7 @@ After several years in a variety of IT roles (data warehouse data analyst,suppor
 
 I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products where the end user or commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors. 
 Find out more about my motivations [Olwen on Medium](https://medium.com/@olwend)
+[LinkedIn Olwen Davies](https://www.linkedin.com/in/olwen-davies-1a6a666/)
 
 ## INDIRECT SKILLS OF GREAT USE IN CODING
 
@@ -67,7 +68,7 @@ This was challenging as due to hard deadline to coincide with the press releases
 - Intermediate French speaker
 - Basic Spanish
 
-#### WORK EXPERIENCE
+#### WORK EXPERIENCE  
 ** EXPERIAN PLC** JULY 2016 - DECEMBER 2016
 *TEST ANALYST*
 
