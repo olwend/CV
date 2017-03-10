@@ -1,53 +1,55 @@
-## Olwen Davies DRAFT
+## Olwen Davies 
 
-I am currently undertaking an intensive coding boot camp with Makers Academy, London, with a view to seeking a Software Dev Engineer in Test role (SDET) in a continuous integration agile development team. 
-  Further information available here https://medium.com/@olwend.
-I have several years experience as a test manager, after which I moved into Test analyst contract roles. Skilled application of hands on test skills alongside my sucess managing local, 3rd party and remote teams is shown in a consistent record of efficient yet rigorous risk based testing tailored to project timelines and business client needs.  Relishing hands on technical work, I have taken interim roles moving towards automated testing.  I see the power of early quality input, by which a test professional uses a code based framework to supplement TDD, auto tests are an independent check whilst development is underway and grow with the code base. I am taking time now, to  raise my technical game and so assure my long term contribution and effectiveness on team driven agile projects. My aim is to be a pragmatic, tactical tester suited to technical work.  
+As a seasoned software tester and new Makers Academy graduate I am seeking a Software Dev Engineer or Developer in Test role. I joined MA to raise my technical game and so assure my long term contribution and effectiveness in team driven continuous integration agile projects. I am seeking a role where I can apply my industry experience and continue to advance my development skills.  Since December I have gone from minimal coding to proficiency in Ruby, Rails and JS.  Thus I am able to learn new languages and frameworks, so am happily tech agnostic, prepared to dig in and learn whatever is required.
 
-I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to return to my starting point in IT, where I realised user ideas for understood tasks and where I was driving a product for the end user or commissioners who were the people liaising with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors. 
+After several years in a variety of IT roles (data warehouse data analyst,support analyst, tester and test manager) I moved into Test analyst contract roles. My rigorous application of hands on test skills alongside sucess managing local, 3rd party and remote teams gives my consistent record of efficient testing tailored to project timelines and business or client needs.  I relish hands on technical work, so my interests led me to automated testing as a means to build quality in to software projects.  I am an advocate of early quality input, using a code based test framework to supplement TDD, growing auto tests as an independent check in parallel to growth in the code base. In turn this led me to learn coding at Makers.
 
-## SKILLS - ADD MATRIX 
-
+I have wide interests and I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products where the end user or commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors. 
+Find out more about my motivations [Medium blog](https://medium.com/@olwend)
 
 ## INDIRECT SKILLS OF GREAT USE IN CODING
-#### ISSUE REPORTING AND DEBUGGING
 
 #### CLARIFICATION OF USER REQUIREMENTS
 Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement is in line with the user use of application.
 Over many projects and organisations the same questions arise, a good tester becomes a touchstone and develops uncanny ability to predict issues. I have learnt to trust my hunches and ability to evidence risks prior to their breaking as issues. 
 
 #### COMMUNICATION 
-- Automated test suites as great demo tools
-- Timely and accurate updates to stakeholders of current status of quality and the severity to show impact on project status against plan
-- Clarification of ideas and translation of aspirations into a real plan, which peers and overall team can enact.
+I am client focussed so see clear written and verbal communication as key to successful project delivery.
+Examples of communication:
+- Automated test suites as great demo tools to show non technical people what is being delivered.[Bank tech test](https://github.com/olwend/bank_tech_test)
+- Timely and accurate written or verbal updates of progress and quality status to show current project status against plan.
 - I'm a challenging participant in agile scrum and planning sessions.
-- Management of people - listening, echoing back to help refine and clarify their development concerns and goals. I have most proud that I mentored and trained up 6 novice testers, all of whom are still progressing in their test careers.
-- I implemented a personal development tool to clarify the agile test role and ensure test engineers were given a clear learning path for agile proficiency.
+- Assist peers to voice ideas and translate aspirations into a real plan, which a team can enact.
+- Mentoring via listening, echoing back to help refine and clarify individuals personal development concerns and goals. I am proud to have mentored and trained up 6 novice testers, all are still progressing in their test careers.
+- I implemented a personal development tool to clarify the agile test role and ensure test engineers were given a clear learning path for agile proficiency. This inspired my Makers academy course and my technical upskilling.
+
+#### ISSUE REPORTING AND DEBUGGING
+I enjoy the challenge of understanding legacy code, implementing tests to give clarity and documentation of system functions.
+See this example of implementing tests as a basis for refactoring [Gilded Rose](https://github.com/olwend/Gilded_rose) 
 
 #### UNDERSTANDING OF LARGE ENTERPRISE IT SYSTEMS
+I have wide experience in integrated corporate domains, having worked for 5 blue chip clients over the last 5 years.
+I diagram, seek to understand user flows, implement tests and analyse inputs and outputs to learn new environments.
 
 #### MOST RECENT INDUSTRY PROJECTS
 
-I managed the last phase test activities for a UI migration to a new platform for Experian e-ConsumerView.
-- http://www.experian.co.uk/consumer-information/econsumerview.html
+I managed the last phase test activities for a UI migration to a new platform for [Experian e-ConsumerView](http://www.experian.co.uk/consumer-information/econsumerview.html)
 The actual site is restricted to subscribing finance clients. 
 
 I led UI testing (C# auto framework) of a new Application form, interfacing to EHL switching API.
-Compare The Market Energy workflow https://energy.comparethemarket.com/energy/v2/
+Compare The Market [Energy workflow](https://energy.comparethemarket.com/energy/v2/)
 
+I worked on the delivery tests for [Meerkat Movies](https://www.comparethemarket.com/meerkat/movies)
+This was challenging as due to hard deadline to coincide with the press releases and marketing campaign. 
 
 ## EDUCATION
 
 #### Makers Academy (DEC 2016 - MARCH 2017)
 
-- Curiosity and hunger for "souped up ways" of approaching testing and development projects 
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-#### Northumbria University - PGCert Contemporary Computing (1999)
+- Curiosity and hunger for "souped up ways" of approaching test driven development projects. 
+- As a a remote student I have proven ability as a self motivated problem solver and independent learner.
+- All projects have been delivered with attention to software craftmanship using TDD, SOLID, DRY in MVC frameworks.
+- Ruby, Rails, Javascript, Node.js, Rspec, Capybara, Cucumber, Jasmine
 
 #### IT and testing related work qualifications
 * ISTQB Advanced Test Analyst
@@ -61,52 +63,51 @@ Compare The Market Energy workflow https://energy.comparethemarket.com/energy/v2
 "Social and economic influences on 1930's cinema architecture in London and Paris".
 - Used network to gain employment as a English Assistant in a lycee Jean Moulin, Montmorillon, Poitiers
 
-#### Any other qualifications
+#### LANGUAGES
 - Intermediate French speaker
 - Basic Spanish
 
-## Experience
-** EXPERIAN PLC JULY 2016 - DECEMBER 2016**
+#### WORK EXPERIENCE
+** EXPERIAN PLC** JULY 2016 - DECEMBER 2016
 *TEST ANALYST*
 
-**COMPARE THE MARKET (BGL GROUP)  OCTOBER 2014 - JUNE 2016**
+**COMPARE THE MARKET (BGL GROUP)**  OCTOBER 2014 - JUNE 2016
 *LEAD TEST ENGINEER*
 
-**BRITISH AIRWAYS PLC  OCTOBER 2013 – SEPTEMBER 2014**
+**BRITISH AIRWAYS PLC**  OCTOBER 2013 – SEPTEMBER 2014
 *TEST CONSULTANT*
 
-**TDX GROUP (Equifax)  JANUARY 2013 – OCTOBER 2013**
+**TDX GROUP (Equifax)**  JANUARY 2013 – OCTOBER 2013
 *CLIENT SERVICES TEST TEAM LEAD*
 
-**EXPERIAN PLC (MARCH 2012 – DECEMBER 2012)** 
+**EXPERIAN PLC** (MARCH 2012 – DECEMBER 2012)
 *TEST LEAD CONSUMER CREDIT*  
 
-**THOMSON REUTERS (APRIL 2008 - DECEMBER 2011)**
+**THOMSON REUTERS** (APRIL 2008 - DECEMBER 2011)
 *POST TRADE & TREASURY QUALITY  MANAGER*
 
-**THOMSON REUTERS PLC (APRIL 2004 –APRIL 2008)**
+**THOMSON REUTERS PLC** (APRIL 2004 –APRIL 2008)
 *TEST LEAD FX TRADING & SECURE COMMUNICATIONS*
 
 **CAPITAL ONE BANK EUROPE** (JANUARY 2000 - APRIL 2004)   
 *IT ANALYST TRAINEE  (DATA ANALYSIS, SUPPORT, PROJECT MANAGEMENT, TESTING)*
 *_PM for voluntary Child Abuse Tracking System. Business in The Community Award winner_*
 
-JULY 1999 - DECEMBER 1999 ROLLS ROYCE PLC (SAP Trainer)
+**ROLLS ROYCE PLC**(JULY 1999 - DECEMBER 1999 ROLLS ROYCE PLC (SAP Trainer)
 
-JULY 1994 -  JULY 1999 SEFTON HEALTH DATA ANALYST PART TIME
+**SEFTON HEALTH** JULY 1994 -  JULY 1999 DATA ANALYST TO PUBLIC HEALTH DIRECTOR (PART TIME)
 AD HOC PROJECTS FOR SMALL BUSINESSES USING MS OFFICE
 
 #### HOPED FOR PIPELINE PROJECTS TO VIEW
-LUFF SAID - game approach to cross generation community contribution and knowledge sharing (customisable name)
+NUFF SAID - game approach to cross generation community contribution and knowledge sharing (customisable name)
 
-####INTERESTS
+#### INTERESTS
 
 Social history - I take time to visit museums and discover more about the area I am visiting or reside in. 
 
-Life long border collie owner so I am a habitual rambler, particularly around scenic parts of UK, Rutland, Wiltshire, anywhere I am you will find me likely to pop out with OS map to explore.
+As a life long border collie owner I am a habitual rambler, particularly around scenic parts of Peak district, Rutland, Wiltshire, anywhere I can, I'm likely to pop out with an OS map to explore.
 Know the phrase “Whatever the weather we’ll weather the weather, whether we like it or not!”
-Member of Wildlife Trust - attend talks and volunteer on weekend work parties
 
 Minutes secretary for the management association of a community where I am a flat owner.
 Active contributor to the environment and youth engagement sections of North Luffenham village plan. The aim is to secure  sustainable and affordable living across this and future generations, ensuring longevity of the village and its environment. 
-This has inspired ideas I would like to pursue for sideline projects.
+This has inspired ideas I hope to pursue for sideline projects.
