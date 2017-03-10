@@ -37,7 +37,7 @@ I diagram, seek to understand user flows, implement tests and analyse inputs and
 I managed the last phase test activities for a UI migration to a new platform for [Experian e-ConsumerView](http://www.experian.co.uk/consumer-information/econsumerview.html)
 The actual site is restricted to subscribing finance clients. 
 
-I led UI testing (C# auto framework) of a new Application form, interfacing to EHL switching API.
+I led UI testing (C# auto framework) of a new Application form, interfacing to Energy Helpline switching API.
 Compare The Market [Energy workflow](https://energy.comparethemarket.com/energy/v2/)
 
 I worked on the delivery tests for [Meerkat Movies](https://www.comparethemarket.com/meerkat/movies)
@@ -110,6 +110,6 @@ As a life long border collie owner I am a habitual rambler, particularly around 
 Know the phrase “Whatever the weather we’ll weather the weather, whether we like it or not!”
 
 Minutes secretary for the management association of a community where I am a flat owner.
-Active contributor to the environment and youth engagement sections of North Luffenham village plan. The aim is to secure  sustainable and affordable living across this and future generations, ensuring longevity of the village and its environment. 
+Active contributor to the environment and youth engagement sections of North Luffenham village plan. The aim is to secure  sustainable and affordable living across this and future generations, ensuring longevity and affordability of the village environment. 
 This has inspired ideas I hope to pursue for sideline projects.
-In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award and was adopted by many police forces nationally. 
+In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally. 
