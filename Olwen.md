@@ -52,6 +52,9 @@ This was challenging as due to hard deadline to coincide with the press releases
 - All projects have been delivered with attention to software craftmanship using TDD, SOLID, DRY in MVC frameworks.
 - Ruby, Rails, Javascript, Node.js, Rspec, Capybara, Cucumber, Jasmine
 
+Projects to View: 
+[Makers B'n'B team project](https://byte-2-makersbnb.herokuapp.com/)
+
 #### IT and testing related work qualifications
 * ISTQB Advanced Test Analyst
 * Agile testing (BDD,GIT, Cucumber) and Exploratory charters
