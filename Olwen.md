@@ -53,7 +53,8 @@ This was challenging as due to hard deadline to coincide with the press releases
 - Ruby, Rails, Javascript, Node.js, Rspec, Capybara, Cucumber, Jasmine
 
 Projects to View: 
-[Makers B'n'B team project](https://byte-2-makersbnb.herokuapp.com/)
+[Makers B'n'B team project](https://byte-2-makersbnb.herokuapp.com/) 
+[Instagram Challenge](https://github.com/olwend/instagram-challenge/blob/master/README.md)
 
 #### IT and testing related work qualifications
 * ISTQB Advanced Test Analyst
