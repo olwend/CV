@@ -1,18 +1,19 @@
 ## Olwen Davies 
 
- An MA graduate with 15 years in IT QA I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA as their course reignited my passion for technology. I have raised my technical game and learnt how to learn in a practical way. I am seeking a role where I can apply my industry experience and continue to advance my development skills with hands on work. I am able to learn new languages and frameworks, so am prepared to dig in and learn whatever is required. [Meme based Final project](https://bemymeme.herokuapp.com/) During Makers I grew my skills from coding test frameworks to proficiency in Ruby, Rails and JS. 
+ An MA graduate with 15 years in IT QA I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way. I am seeking a role where I can apply my industry experience and advance my development skills with hands on work. During Makers I grew my skills from coding test frameworks to proficiency in Ruby, Rails and JS. I am able to learn new languages and frameworks, so am prepared to dig in and learn whatever is required. [Meme based Final project](https://bemymeme.herokuapp.com/) 
 
-I was fortunate to be assigned to a short term project at HSBC. As a team of 4 we used basic Java /Spring/ Typescript and Angular2 to deliver MVP on a resource management tool, addressing all user stories and pushing to an enterprise cloud domain within 8 weeks.  As a test manager and contract tester my rigorous application of hands on test skills alongside management of local, 3rd party and remote teams delivered quality products, tailored to project timelines and business or client needs. I advocate building quality in, using a test framework to supplement TDD; E2E auto tests proving functionality and preventing regression as the code base grows. I was really pleased to work as a full stack developer and influence to ensure appropriate test data reduced the risk of delays to UAT release. 
- 
-I have wide interests, enjoying exhibitions and all the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups. 
+Immediately after Makers I was assigned to a short term project at HSBC. As a team of 4 we used basic Java /Spring/ Typescript and Angular2 to deliver MVP on a resource management tool, addressing all user stories and pushing to an enterprise cloud domain within 8 weeks.
+
+I have wide interests, enjoying exhibitions and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups. 
+As a life long border collie owner I am a habitual rambler, particularly around scenic parts of Peak district, Rutland, Wiltshire, anywhere I can, I'm likely to pop out with an OS map to explore and in a city find the quaint and quirky good value watering holes.
+I believe we get out of situations as much as we put in, thus I have been an active contributor to the environment and youth engagement sections of North Luffenham village plan, where my family lives an aim being to secure  sustainable and affordable living across this and future generations, ensuring longevity and affordability of the village environment. In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally.
 Find out more about my motivations [Olwen on Medium](https://medium.com/@olwend)
 [LinkedIn Olwen Davies](https://www.linkedin.com/in/olwen-davies-1a6a666/)
 
 ## INDIRECT SKILLS OF GREAT USE IN CODING
 
 #### CLARIFICATION OF USER REQUIREMENTS
-Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement is in line with the user use of application.
-Over many projects and organisations the same questions arise, a good tester becomes a touchstone and develops uncanny ability to predict issues. I have learnt to trust my hunches and ability to evidence risks prior to their breaking as issues. 
+Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement suits the users.
 
 #### COMMUNICATION 
 I am client focussed so see clear written and verbal communication as key to successful project delivery.
@@ -22,7 +23,6 @@ Examples of communication:
 - I'm a challenging participant in agile scrum and planning sessions.
 - Assist peers to voice ideas and translate aspirations into a real plan, which a team can enact.
 - Mentoring via listening, echoing back to help refine and clarify individuals personal development concerns and goals. I am proud to have mentored and trained up 6 novice testers, all are still progressing in their test careers.
-- I implemented a personal development tool to clarify the agile test role and ensure test engineers were given a clear learning path for agile proficiency. This inspired my Makers academy course and my technical upskilling.
 
 #### ISSUE REPORTING AND DEBUGGING
 I enjoy the challenge of understanding legacy code, implementing tests to give clarity and documentation of system functions.
@@ -30,9 +30,6 @@ See this example of implementing tests as a basis for refactoring [Gilded Rose](
 
 #### UNDERSTANDING OF LARGE ENTERPRISE IT SYSTEMS
 I have wide experience in integrated corporate domains, having worked for 5 blue chip clients over the last 5 years.
-I diagram, seek to understand user flows, implement tests and analyse inputs and outputs to learn new environments.
-
-#### MOST RECENT INDUSTRY PROJECTS
 
 I managed the last phase test activities for a UI migration to a new platform for [Experian e-ConsumerView](http://www.experian.co.uk/consumer-information/econsumerview.html)
 The actual site is restricted to subscribing finance clients. 
@@ -47,7 +44,6 @@ This was challenging as due to hard deadline to coincide with the press releases
 
 #### Makers Academy (DEC 2016 - MARCH 2017)
 
-- Curiosity and hunger for "souped up ways" of approaching test driven development projects. 
 - As a a remote student I have proven ability as a self motivated problem solver and independent learner.
 - All projects have been delivered with attention to software craftmanship using TDD, SOLID, DRY in MVC frameworks.
 - Ruby, Rails, Javascript, Node.js, Rspec, Capybara, Cucumber, Jasmine
@@ -62,11 +58,9 @@ Projects to View:
 * DSDM Atern Agile Project Management
 
 #### LONDON SCHOOL OF ECONOMICS 1989 - 1993
-
 - Bsc ECON (Economic and Social History) 2:2
 - Won University of London Convocation award to follow up dissertation with comparative study
 "Social and economic influences on 1930's cinema architecture in London and Paris".
-- Used network to gain employment as a English Assistant in a lycee Jean Moulin, Montmorillon, Poitiers
 
 #### LANGUAGES
 - Intermediate French speaker
@@ -99,21 +93,3 @@ Projects to View:
 *_PM for voluntary Child Abuse Tracking System. Business in The Community Award winner_*
 
 **ROLLS ROYCE PLC**  JULY 1999 - DECEMBER 1999 ROLLS ROYCE PLC (SAP Trainer)
-
-**SEFTON HEALTH** JULY 1994 -  JULY 1999 DATA ANALYST TO PUBLIC HEALTH DIRECTOR (PART TIME)
-AD HOC PROJECTS FOR SMALL BUSINESSES USING MS OFFICE
-
-#### HOPED FOR PIPELINE PROJECTS TO VIEW
-NUFF SAID - game approach to cross generation community contribution and knowledge sharing (customisable name)
-
-#### INTERESTS
-
-Social history - I take time to visit museums and discover more about the area I am visiting or reside in. 
-
-As a life long border collie owner I am a habitual rambler, particularly around scenic parts of Peak district, Rutland, Wiltshire, anywhere I can, I'm likely to pop out with an OS map to explore.
-Know the phrase “Whatever the weather we’ll weather the weather, whether we like it or not!”
-
-Minutes secretary for the management association of a community where I am a flat owner.
-Active contributor to the environment and youth engagement sections of North Luffenham village plan. The aim is to secure  sustainable and affordable living across this and future generations, ensuring longevity and affordability of the village environment. 
-This has inspired ideas I hope to pursue for sideline projects.
-In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally. 
