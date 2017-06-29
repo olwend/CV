@@ -2,7 +2,7 @@
 
  An MA graduate with 15 years in IT QA I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way. I am seeking a role where I can apply my industry experience and advance my development skills with hands on work. During Makers I grew my skills from coding test frameworks to proficiency in Ruby, Rails and JS. I am able to learn new languages and frameworks, am prepared to dig in and learn whatever is required to be successful in a new role. [Meme based Final project](https://bemymeme.herokuapp.com/) 
 
-Immediately after Makers I was assigned to a short term project at HSBC. As a team of 4 we used Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool, addressing all user stories and pushing to an enterprise cloud domain within 8 weeks.
+Immediately after Makers I was assigned to a short term project at HSBC. As a team of 4 we used Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool, addressing all user stories and pushing to an enterprise Pivotal cloud domain within 8 weeks.
 
 I have wide interests, enjoying exhibitions and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups. 
 
@@ -46,8 +46,8 @@ This was challenging as due to hard deadline to coincide with the press releases
 
 #### Makers Academy (DEC 2016 - MARCH 2017)
 
-- As a a remote student I have proven ability as a self motivated problem solver and independent learner.
-- All projects have been delivered with attention to software craftmanship using TDD, SOLID, DRY in MVC frameworks.
+- As a remote student I have proven ability as a self motivated problem solver and independent learner.
+- All projects have been delivered with attention to software craftsmanship using TDD, SOLID, DRY in MVC frameworks.
 - Ruby, Rails, Javascript, Node.js, Rspec, Capybara, Cucumber, Jasmine
 
 Projects to View: 
