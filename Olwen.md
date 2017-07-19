@@ -1,23 +1,19 @@
 ## Olwen Davies 
 
- An MA graduate with 15 years in IT QA I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way. I am seeking a role where I can apply my industry experience and advance my development skills with hands on work. During Makers I grew my skills from coding test frameworks to proficiency in Ruby, Rails and JS. I am able to learn new languages and frameworks, am prepared to dig in and learn whatever is required to be successful in a new role. [Meme based Final project](https://bemymeme.herokuapp.com/) 
+ An MA graduate with 15 years in IT QA I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way.I grew my skills from coding test frameworks to proficiency in Ruby, Rails, JS and am learning JAVA having used it on an 8 week HSBC placement. I am prepared to dig in and learn whatever is required to be successful in a new role. [Meme based Final project](https://bemymeme.herokuapp.com/) 
 
-Immediately after Makers I was assigned to a short term project at HSBC. As a team of 4 we used Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool, addressing all user stories and pushing to an enterprise Pivotal cloud domain within 8 weeks.
+ At HSBC I worked in a team of 4 using Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool,pushed to an enterprise Pivotal cloud domain within 8 weeks.
 
-I have wide interests, enjoying exhibitions and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups. 
-
-As a life long border collie owner I am a habitual rambler, particularly around scenic parts of London, Rutland and the Peak district, anywhere I can, I'm likely to pop out with an OS map to explore and in a city find the quaint and quirky good value watering holes.
-
-I believe we get out of situations as much as we put in, thus I have been an active contributor to the environment and youth engagement sections of North Luffenham village plan, where my family lives an aim being to secure  sustainable and affordable living across this and future generations, ensuring longevity and affordability of the village environment. In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally.
+I have wide interests, enjoying exhibitions and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups.  In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally.
 Find out more about my motivations [Olwen on Medium](https://medium.com/@olwend)
 [LinkedIn Olwen Davies](https://www.linkedin.com/in/olwen-davies-1a6a666/)
 
-## INDIRECT SKILLS OF GREAT USE IN CODING
+#### Skills built up in QA of great use in coding 
 
-#### CLARIFICATION OF USER REQUIREMENTS
+#### Clarification of Product owner/ User Requirements
 Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement suits the users.
 
-#### COMMUNICATION 
+#### Communication
 I am client focussed so see clear written and verbal communication as key to successful project delivery.
 Examples of communication:
 - Automated test suites as great demo tools to show non technical people what is being delivered.[Bank tech test](https://github.com/olwend/bank_tech_test)
@@ -26,11 +22,11 @@ Examples of communication:
 - Assist peers to voice ideas and translate aspirations into a real plan, which a team can enact.
 - Mentoring via listening, echoing back to help refine and clarify individuals personal development concerns and goals. I am proud to have mentored and trained up 6 novice testers, all are still progressing in their test careers.
 
-#### ISSUE REPORTING AND DEBUGGING
+#### Issue Reporting and Debugging
 I enjoy the challenge of understanding legacy code, implementing tests to give clarity and documentation of system functions.
 See this example of implementing tests as a basis for refactoring [Gilded Rose](https://github.com/olwend/Gilded_rose) 
 
-#### UNDERSTANDING OF LARGE ENTERPRISE IT SYSTEMS
+#### Understanding of large enterprise systems
 I have wide experience in integrated corporate domains, having worked for 5 blue chip clients over the last 5 years.
 
 I managed the last phase test activities for a UI migration to a new platform for [Experian e-ConsumerView](http://www.experian.co.uk/consumer-information/econsumerview.html)
@@ -42,7 +38,7 @@ Compare The Market [Energy workflow](https://energy.comparethemarket.com/energy/
 I worked on the delivery tests for [Meerkat Movies](https://www.comparethemarket.com/meerkat/movies)
 This was challenging as due to hard deadline to coincide with the press releases and marketing campaign. 
 
-## EDUCATION
+#### Education
 
 #### Makers Academy (DEC 2016 - MARCH 2017)
 
@@ -59,39 +55,42 @@ Projects to View:
 * Agile testing (BDD,GIT, Cucumber) and Exploratory charters
 * DSDM Atern Agile Project Management
 
-#### LONDON SCHOOL OF ECONOMICS 1989 - 1993
+#### LSE 1989 - 1993
 - Bsc ECON (Economic and Social History) 2:2
 - Won University of London Convocation award to follow up dissertation with comparative study
 "Social and economic influences on 1930's cinema architecture in London and Paris".
 
-#### LANGUAGES
+#### Languages
 - Intermediate French speaker
 - Basic Spanish
 
-#### WORK EXPERIENCE  
+#### Work Experience 
+
+** HSBC ** APRIL 2017 - JUNE 2017
+*Junior developer*
 **EXPERIAN PLC** JULY 2016 - DECEMBER 2016
-*TEST ANALYST*
+*Test analyst*
 
 **COMPARE THE MARKET (BGL GROUP)**  OCTOBER 2014 - JUNE 2016
-*LEAD TEST ENGINEER*
+*Lead Test Engineer*
 
 **BRITISH AIRWAYS PLC**  OCTOBER 2013 – SEPTEMBER 2014
-*TEST CONSULTANT*
+*Test Consultant*
 
 **TDX GROUP (Equifax)**  JANUARY 2013 – OCTOBER 2013
-*CLIENT SERVICES TEST TEAM LEAD*
+*Client Services Test Team Lead*
 
 **EXPERIAN PLC**  MARCH 2012 – DECEMBER 2012
-*TEST LEAD CONSUMER CREDIT*  
+*Test Lead Consumer credit portfolio*  
 
 **THOMSON REUTERS**  APRIL 2008 - DECEMBER 2011
-*POST TRADE & TREASURY QUALITY  MANAGER*
+*Post Trade & Treasury Quality Manager*
 
 **THOMSON REUTERS PLC**  APRIL 2004 –APRIL 2008
-*TEST LEAD FX TRADING & SECURE COMMUNICATIONS*
+*Test Lead FX Trading & Secure Communications*
 
 **CAPITAL ONE BANK EUROPE**  JANUARY 2000 - APRIL 2004   
-*IT ANALYST TRAINEE  (DATA ANALYSIS, SUPPORT, PROJECT MANAGEMENT, TESTING)*
+*IT Analyst (Data Analysis, ETL Support, Testing)*
 *_PM for voluntary Child Abuse Tracking System. Business in The Community Award winner_*
 
 **ROLLS ROYCE PLC**  JULY 1999 - DECEMBER 1999 ROLLS ROYCE PLC (SAP Trainer)
