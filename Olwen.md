@@ -66,8 +66,9 @@ Projects to View:
 
 #### Work Experience 
 
-** HSBC ** APRIL 2017 - JUNE 2017
+**HSBC** APRIL 2017 - JUNE 2017
 *Junior developer*
+
 **EXPERIAN PLC** JULY 2016 - DECEMBER 2016
 *Test analyst*
 
