@@ -4,7 +4,7 @@
 
  At HSBC I worked in a team of 4 using Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool,pushed to an enterprise Pivotal cloud domain within 8 weeks.
 
-I have wide interests, enjoying exhibitions and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups.  In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally.
+I have wide interests, enjoying exhibitions and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups.  In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally.  I am pairing with a friend to take a prototype Literacy app to MVP, so she can seek investment. 
 Find out more about my motivations [Olwen on Medium](https://medium.com/@olwend)
 [LinkedIn Olwen Davies](https://www.linkedin.com/in/olwen-davies-1a6a666/)
 
@@ -93,5 +93,3 @@ Projects to View:
 **CAPITAL ONE BANK EUROPE**  JANUARY 2000 - APRIL 2004   
 *IT Analyst (Data Analysis, ETL Support, Testing)*
 *_PM for voluntary Child Abuse Tracking System. Business in The Community Award winner_*
-
-**ROLLS ROYCE PLC**  JULY 1999 - DECEMBER 1999 ROLLS ROYCE PLC (SAP Trainer)
