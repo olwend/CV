@@ -1,6 +1,6 @@
 ## Olwen Davies 
 
- An MA graduate with 15 years in IT QA I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way.I grew my skills from coding test frameworks to proficiency in Ruby, Rails, JS and am learning JAVA having used it on an 8 week HSBC placement. I am prepared to dig in and learn whatever is required to be successful in a new role. [Meme based Final project](https://bemymeme.herokuapp.com/) 
+ An MA graduate with 17 years in IT Support, Data analysis & QA. I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way.I grew my skills from coding test frameworks to proficiency in Ruby, Rails, JS and am learning JAVA having used it on an 8 week HSBC placement. I am prepared to dig in and learn whatever is required to be successful in a new role. [Meme based Final project](https://bemymeme.herokuapp.com/) 
 
  At HSBC I worked in a team of 4 using Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool,pushed to an enterprise Pivotal cloud domain within 8 weeks.
 
