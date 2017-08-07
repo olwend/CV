@@ -34,7 +34,7 @@ I led UI testing (C# auto framework) of a new Application form, interfacing to E
 Compare The Market [Energy workflow](https://energy.comparethemarket.com/energy/v2/)
 
 I worked on the delivery tests for [Meerkat Movies](https://www.comparethemarket.com/meerkat/movies)
-This was challenging as due to hard deadline to coincide with the press releases and marketing campaign. 
+This was challenging due to a hard deadline to coincide with the press releases and marketing campaign. 
 
 #### Education
 
@@ -42,7 +42,7 @@ This was challenging as due to hard deadline to coincide with the press releases
 
 - As a remote student I have proven ability as a self motivated problem solver and independent learner.
 - All projects have been delivered with attention to software craftsmanship using TDD, SOLID, DRY in MVC frameworks.
-- Ruby, Rails, Javascript, Node.js, Rspec, Capybara, Cucumber, Jasmine
+- Ruby, Rails, Javascript, Node.js, Rspec, Capybara, Cucumber, Jasmine.
 
 Projects to View: 
 [Makers B'n'B team project](https://byte-2-makersbnb.herokuapp.com/) 
