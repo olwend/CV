@@ -1,12 +1,12 @@
 ## Olwen Davies 
 
- An MA graduate with 17 years in IT Support, Data analysis & QA. I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way.I grew my skills from coding test frameworks to proficiency in Ruby, Rails, JS and am learning JAVA having used it on an 8 week HSBC placement. I am prepared to dig in and learn whatever is required to be successful in a new role. [Meme based Final project](https://bemymeme.herokuapp.com/) 
+ An MA graduate with 17 years in IT Support, Data analysis & QA. I am seeking a role where I can apply my industry experience and continue to advance my development skills.  I joined MA to raise my technical game and learn in a practical way. I grew my skills from coding test frameworks to proficiency in Ruby, Rails and CSS and am learning JS, Sass and JAVA having used both on an 8 week HSBC placement and currently at the Natural History Museum. I am prepared to dig in and learn whatever is required to be successful in a new role. [Meme based Final project](https://bemymeme.herokuapp.com/) 
 
- At HSBC I worked in a team of 4 using Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool,pushed to an enterprise Pivotal cloud domain within 8 weeks.
+ At HSBC I worked in a team of 4 using Java/h2/Spring/Typescript and Angular2 to deliver MVP on a resource management tool,pushed to an enterprise Pivotal cloud domain within 8 weeks. At the [Natural History Museum](http://www.nhm.ac.uk/) I work in a digital product driven team seeking to grow views of scientific content by improving interactions for the users. 
 
-I enjoy blogging [Olwen on Medium](https://medium.com/@olwend), photography, exhibitions, hiking and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups.  In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally.  I am pairing with a friend to enhance a prototype Literacy app. 
+I enjoy blogging [Olwen on Medium](https://medium.com/@olwend), photography, exhibitions, hiking and the visual richness that is London. I see huge benefits to technology being more widely understood and better applied, thus I want to  realise user ideas for understood tasks and drive products tightly bound to end users, where commissioners liaise with the creative and technical team.  I am interested in enabling technology in less digitally developed sectors and age groups.  In 2002 I was PM for a voluntary project which delivered a Child Abuse Tracking System. This won a Business in The Community Award, presented to us by Prince Charles, and was adopted by many police forces nationally.  I enjoy pairing or solo work as can be seen from my participation in Open source projects. 
 
-#### Skills built up in QA of great use in coding 
+### Skills built up in QA of great use in coding 
 
 #### Clarification of Product owner/ User Requirements
 Testing introduces the real world and users to the running of code, thus exposes questions and reveals gaps.  Sets the code in the wider context of environment, accessibility and device. Checks that the interpretation of the requirement suits the users.
@@ -63,6 +63,9 @@ Projects to View:
 - Basic Spanish
 
 #### Work Experience 
+
+**NATURAL HISTORY MUSEUM** SEPTEMBER 2017
+*Junior developer*
 
 **HSBC** APRIL 2017 - JUNE 2017
 *Junior developer*
